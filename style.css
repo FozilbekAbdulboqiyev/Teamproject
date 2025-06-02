@@ -58,10 +58,12 @@ footer {
 
 .bottom p {
   font-size: 13px;
-  color: white;
+  color: #e6e6e6;
   margin: 0;
 }
-
+.bottom p:hover {
+  color: white;
+}
 .icons img {
   width: 20px;
   height: 20px;
