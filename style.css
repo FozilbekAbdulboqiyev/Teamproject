@@ -12,7 +12,7 @@ footer {
 }
 
 .conteyner {
-  max-width: 1200px;
+  max-width: 1260px;
   margin: 0 auto;
 }
 
@@ -36,7 +36,7 @@ footer {
 
 .column a {
   display: block;
-  color: white;
+  color: #e6e6e6;
   text-decoration: none;
   font-size: 14px;
   margin-bottom: 24px;
@@ -44,6 +44,7 @@ footer {
 
 .column a:hover {
   text-decoration: underline;
+  color: white;
 }
 
 .bottom {
